@@ -1,3 +1,3 @@
 # ToDo-MERN-Assessment-Server
 
-## [View Deployed Application]('http://deployed-link.com)
+## [View Deployed Application](https://todo-list-assessment.netlify.app)
